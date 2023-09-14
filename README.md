@@ -1,5 +1,3 @@
-# O-quadrado-soma-media-maior-menor
-Código em linguagem C. Um algoritmo que receba 10 números em seguida calcule e exiba: O maior, o menor, média, soma e o quadrado de cada número.
 # Soma-media-maior-menor 🔴
 Este projeto recebe 10 números digitados pelo usuário e mostra a soma dos valores, a média, número maior, número menor e o quadrado do número. No código foi utilizado a linguagem C. 
 
