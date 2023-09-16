@@ -1,7 +1,7 @@
 # Soma-media-maior-menor 🔴
 Este projeto recebe 10 números digitados pelo usuário e mostra a soma dos valores, a média, número maior, número menor e o quadrado do número. No código foi utilizado a linguagem C. 
 
-[<img height="500" src="img/Numeropar.gif">](https://github.com/Arqgilmar/N-mero-Par-em-C/tree/main/img) 
+[<img height="500" src="img/Soma.gif">](https://github.com/Arqgilmar/Soma-media-maior-menor/tree/main/img/soma.gif) 
 
 
 ## ⚡ Linguagem usada
